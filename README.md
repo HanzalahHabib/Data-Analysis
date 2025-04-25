@@ -44,13 +44,10 @@ cd "Global Life Expectancy Analysis"
 jupyter notebook
 CSV Files: If the project includes CSV files, you can open them in any text editor or data visualization tool, or directly load them into Python for analysis using pandas.
 
-##🚀 Contributing
+## 🚀 Contributing
 If you'd like to contribute to this repository, feel free to fork it and submit a pull request. Contributions are welcome!
 
 ## 📧 Contact
 For any questions or inquiries, feel free to reach out:
 
 Email: habibhanzala545@gmail.com
-
-## 📝 License
-This repository is licensed under the MIT License – see the LICENSE file for details.
